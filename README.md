@@ -1,0 +1,1 @@
+This project is a simple RESTful API built with Node.js and Express.js that allows users to manage a list of books. The API supports basic CRUD operations (Create, Read, Update, Delete) and stores data in-memory (no database required). It is ideal for beginners learning backend development, Express routing, and REST principles.
